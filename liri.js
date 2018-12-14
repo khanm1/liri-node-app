@@ -6,7 +6,6 @@ let keys = require('./keys.js');
 var spotify = new spotifyThis(keys.spotify);
 let inq = require('inquirer');
 var fs = require('fs');
-
 inq.prompt([
     {
         type:"list",
