@@ -6,52 +6,51 @@ let keys = require('./keys.js');
 var spotify = new spotifyThis(keys.spotify);
 let inq = require('inquirer');
 var fs = require('fs');
-inq.prompt([
-    {
-        type:"list",
-        message:"choose what you want",
-        choices:["movie this","spotify this","band this","do-what-it-says"],
-        name:"wanted"
+ 
+var command= process.argv[2];
+
+
+function run(command)
+{
+  
+    switch(command){
+        case 'movie-this':
+
+        console.log("switch:"+command);
+        inq.prompt([
+            {
+                type:"input",
+                message:"Enter the movie name",
+                name:"movie"
+            }
+        ]).then(function(movie){
+            omdbThisMovie(movie.movie);
+        });break;
+        case 'spotify-this-song':
+        inq.prompt([
+            {
+                type:"input",
+                message:"Enter the song name",
+                name:"song"
+            }
+        ]).then(function(song){
+            SpotifyThisFunc(song.song);
+        });break;
+        case 'concert-this':
+        inq.prompt([
+            {
+                type:"input",
+                message:"Enter the band name",
+                name:"band"
+            }
+        ]).then(function(band){
+            bandInTownFunc(band.band);
+        });break;
+        case "do-what-it-says":
+            justDoSomething();
+            break;
     }
-]).then(function(response){
-    if(response.wanted){
-        switch(response.wanted){
-            case 'movie this':
-            inq.prompt([
-                {
-                    type:"input",
-                    message:"Enter the movie name",
-                    name:"movie"
-                }
-            ]).then(function(movie){
-                omdbThisMovie(movie.movie);
-            });break;
-            case 'spotify this':
-            inq.prompt([
-                {
-                    type:"input",
-                    message:"Enter the song name",
-                    name:"song"
-                }
-            ]).then(function(song){
-                SpotifyThisFunc(song.song);
-            });break;
-            case 'band this':
-            inq.prompt([
-                {
-                    type:"input",
-                    message:"Enter the band name",
-                    name:"band"
-                }
-            ]).then(function(band){
-                bandInTownFunc(band.band);
-            });break;
-            case "do-what-it-says":
-                justDoSomething();
-                break;
-        }
-    }
-});
+}
 function bandInTownFunc(band){
     if(band.includes(' ')){
         band = band.replace(' ','%20');
@@ -134,3 +133,4 @@ function justDoSomething(){
     });
   }
   
+  run(command);

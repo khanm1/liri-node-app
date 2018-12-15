@@ -15,3 +15,19 @@ Language: English
 Plot: American Senator Gary Hart's presidential campaign in 1988 is derailed when he's caught in a scandalous love affair.
 Actors: Hugh Jackman, Vera Farmiga, J.K. Simmons, Mark O'Brien
 ==========================
+Title: The Front Runner
+Release Year: 2018
+IMdB Rating: 6.6
+Country: USA
+Language: English
+Plot: American Senator Gary Hart's presidential campaign in 1988 is derailed when he's caught in a scandalous love affair.
+Actors: Hugh Jackman, Vera Farmiga, J.K. Simmons, Mark O'Brien
+==========================
+Title: The Lion King
+Release Year: 1994
+IMdB Rating: 8.5
+Country: USA
+Language: English, Swahili, Xhosa, Zulu
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+==========================
