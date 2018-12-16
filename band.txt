@@ -2,13 +2,13 @@ Event Name: Mandalay Bay Events Center
 Event Location: Las Vegas, United States
 Event Date: 12/31/2018
 ==========================
-Event Name: Mandalay Bay Events Center
-Event Location: Las Vegas, United States
-Event Date: 01/01/2019
-==========================
 Event Name: Rod Laver Arena
 Event Location: Melbourne, Australia
 Event Date: 02/23/2019
+==========================
+Event Name: Tokyo Dome
+Event Location: Tokyo, Japan
+Event Date: 02/26/2019
 ==========================
 Event Name: Gocheok Sky Dome
 Event Location: Seoul, South Korea
@@ -34,9 +34,9 @@ Event Name: CHALLENGER HALL
 Event Location: Bangkok, Thailand
 Event Date: 03/10/2019
 ==========================
-Event Name: Brisbane Entertainment Centre
-Event Location: Brisbane, Australia
-Event Date: 02/20/2019
+Event Name: Mollenpark
+Event Location: Aalborg, Denmark
+Event Date: 06/02/2019
 ==========================
 Event Name: Lanxess Arena
 Event Location: Cologne, Germany
@@ -58,15 +58,163 @@ Event Name: AccorHotels Arena
 Event Location: Paris, France
 Event Date: 06/12/2019
 ==========================
-Event Name: Mollenpark
-Event Location: Aalborg, Denmark
-Event Date: 06/02/2019
-==========================
-Event Name: Tokyo Dome
-Event Location: Tokyo, Japan
-Event Date: 02/26/2019
-==========================
 Event Name: Qudos Bank Arena
 Event Location: Sydney, Australia
 Event Date: 02/22/2019
+==========================
+Event Name: Mandalay Bay Events Center
+Event Location: Las Vegas, United States
+Event Date: 01/01/2019
+==========================
+Event Name: Brisbane Entertainment Centre
+Event Location: Brisbane, Australia
+Event Date: 02/20/2019
+==========================
+Event Name: Hartman Arena
+Event Location: Park City, United States
+Event Date: 01/06/2019
+==========================
+Event Name: Cerritos Center
+Event Location: Cerritos, United States
+Event Date: 01/12/2019
+==========================
+Event Name: Comerica Theatre
+Event Location: Phoenix, United States
+Event Date: 01/13/2019
+==========================
+Event Name: Centennial Hall
+Event Location: Tucson, United States
+Event Date: 01/14/2019
+==========================
+Event Name: Cascade Theatre
+Event Location: Redding, United States
+Event Date: 01/19/2019
+==========================
+Event Name: Fantasy Springs Resort Casino
+Event Location: Indio, United States
+Event Date: 01/20/2019
+==========================
+Event Name: Broward Center for the Performing Arts
+Event Location: Ft Lauderdale, United States
+Event Date: 02/01/2019
+==========================
+Event Name: Seminole Casino Hotel Immokalee
+Event Location: Immokalee, United States
+Event Date: 02/02/2019
+==========================
+Event Name: Kravis Center
+Event Location: West Palm Beach, United States
+Event Date: 02/03/2019
+==========================
+Event Name: Ferguson Center for the Arts
+Event Location: Newport News, United States
+Event Date: 02/22/2019
+==========================
+Event Name: The H. Ric Luhrs Performing Arts Center
+Event Location: Shippensburg, United States
+Event Date: 02/23/2019
+==========================
+Event Name: Chevalier Theater
+Event Location: Medford, United States
+Event Date: 03/16/2019
+==========================
+Event Name: Orpheum Theater
+Event Location: Omaha, United States
+Event Date: 03/21/2019
+==========================
+Event Name: The Classic Center
+Event Location: Athens, United States
+Event Date: 03/29/2019
+==========================
+Event Name: NYCB Theatre At Westbury
+Event Location: Westbury, United States
+Event Date: 03/17/2019
+==========================
+Event Name: Cobb Energy Performing Arts Centre
+Event Location: Atlanta, United States
+Event Date: 03/31/2019
+==========================
+Event Name: Von Braun Center Arena
+Event Location: Huntsville, United States
+Event Date: 04/01/2019
+==========================
+Event Name: Akron Civic Theatre
+Event Location: Akron, United States
+Event Date: 04/05/2019
+==========================
+Event Name: Palace Theatre
+Event Location: Columbus, United States
+Event Date: 04/06/2019
+==========================
+Event Name: Clowes Memorial Hall
+Event Location: Indianapolis, United States
+Event Date: 04/07/2019
+==========================
+Event Name: Lerner Performing Arts Center
+Event Location: Elkhart, United States
+Event Date: 04/08/2019
+==========================
+Event Name: The Rose
+Event Location: Pasadena, United States
+Event Date: 04/12/2019
+==========================
+Event Name: Ojai Libbey Bowl
+Event Location: Ojai, United States
+Event Date: 04/13/2019
+==========================
+Event Name: Saban Theatre
+Event Location: Beverly Hills, United States
+Event Date: 04/14/2019
+==========================
+Event Name: The Rose
+Event Location: Pasadena, United States
+Event Date: 04/15/2019
+==========================
+Event Name: F.M. Kirby Center for the Performing Arts
+Event Location: Wilkes Barre, United States
+Event Date: 02/24/2019
+==========================
+Event Name: Ruth Eckerd Hall
+Event Location: Clearwater, United States
+Event Date: 04/28/2019
+==========================
+Event Name: Florida Theatre
+Event Location: Jacksonville, United States
+Event Date: 04/29/2019
+==========================
+Event Name: Alexis & Jim Pugh Theater
+Event Location: Orlando, United States
+Event Date: 05/01/2019
+==========================
+Event Name: The Theater at MGM National Harbor
+Event Location: Oxon Hill, United States
+Event Date: 05/04/2019
+==========================
+Event Name: Bergen Performing Arts Center
+Event Location: Englewood, United States
+Event Date: 05/10/2019
+==========================
+Event Name: Keswick Theatre
+Event Location: Glenside, United States
+Event Date: 05/11/2019
+==========================
+Event Name: Paramount Theatre
+Event Location: Asbury Park, United States
+Event Date: 05/12/2019
+==========================
+Event Name: Spartanburg Memorial Auditorium
+Event Location: Spartanburg, United States
+Event Date: 03/30/2019
+==========================
+Event Name: Van Wezel Performing Arts Hall
+Event Location: Sarasota, United States
+Event Date: 04/27/2019
+==========================
+Event Name: Durham Performing Arts Center
+Event Location: Durham, United States
+Event Date: 08/24/2019
+==========================
+Event Name: Proctors
+Event Location: Schenectady, United States
+Event Date: 03/18/2019
 ==========================

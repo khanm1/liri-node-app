@@ -16,7 +16,7 @@ function run(command)
     switch(command){
         case 'movie-this':
 
-        console.log("switch:"+command);
+        //console.log("switch:"+command);
         inq.prompt([
             {
                 type:"input",
@@ -45,16 +45,19 @@ function run(command)
             }
         ]).then(function(band){
             bandInTownFunc(band.band);
-        });break;
+        });
+     
+        break;
         case "do-what-it-says":
             justDoSomething();
             break;
     }
 }
 function bandInTownFunc(band){
-    if(band.includes(' ')){
+     if(band.includes(' ')){
         band = band.replace(' ','%20');
     }
+
     axios.get(`http://rest.bandsintown.com/artists/${band}/events?app_id=codingbootcamp`).then(
     function (response) {
         response.data.forEach(data =>{
