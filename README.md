@@ -46,11 +46,11 @@ Takes the text from random.txt and runs the song through spotify-this-song comma
 
 Tech used
 Node.js
-axios
-dotenv
-inquirer
-moment
-node-spotify-api
+axios NPM Package 
+dotenv NPM Package 
+inquirer NPM Package 
+moment NPM Package 
+node-spotify-api NPM Package 
 
 Author
 Mohammad Khan
