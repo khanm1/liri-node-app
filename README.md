@@ -46,12 +46,12 @@ node liri.js do-what-it-says
 Takes the text from random.txt and runs the song through spotify-this-song command
 
 Tech used:
-Node.js,
-axios NPM Package,
-dotenv NPM Package,
-inquirer NPM Package,
-moment NPM Package,
-node-spotify-api NPM Package 
+ * Node.js
+ * axios NPM Package
+ * dotenv NPM Package
+ * inquirer NPM Package
+ * moment NPM Package
+ * node-spotify-api NPM Package 
 
 Author:
 Mohammad Khan
