@@ -16,17 +16,18 @@ Run command 'npm install' in Terminal or GitBash
 Run command 'node liri.js' or one of the commands below.
 What Each Command Does
 node liri.js concert-this
-    * Name of the venue
+
+     * Name of the venue
      * Venue location
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
 node liri.js spotify-this-song <song name>
 Shows the following information about the song in terminal/bash window.
 
-Artist(s)
-The song's name
-A preview link of the song from Spotify
-The album that the song is from
+  * Artist(s)
+  * The song's name
+  * A preview link of the song from Spotify
+  * The album that the song is from
 
 
 node liri.js movie-this <movie name>
