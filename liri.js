@@ -9,14 +9,11 @@ var fs = require('fs');
  
 var command= process.argv[2];
 
-
 function run(command)
 {
   
     switch(command){
         case 'movie-this':
-
-        //console.log("switch:"+command);
         inq.prompt([
             {
                 type:"input",
@@ -64,6 +61,7 @@ function bandInTownFunc(band){
             (data.venue.name);
             console.log(data.venue.city+', '+data.venue.country);
             console.log(moment(data.datetime, 'YYYY-MM-DDTHH:mm').utc().format("MM/DD/YYYY"));  
+            //print to text file
             fs.appendFile('band.txt',
                 "Event Name: " + data.venue.name+'\n'+
                 "Event Location: " + data.venue.city+', '+data.venue.country+'\n'+
@@ -88,7 +86,7 @@ function SpotifyThisFunc(song){
             console.log("Song Name: "+song.name);
             console.log("Preview Link: "+song.preview_url);
             console.log("The Song Album: "+song.album.name);
-            //print to file
+            //print to text file
             fs.appendFile('song.txt',
                 "Artist: "+song.artists[0].name+'\n'+
                 "Song Name: "+song.name+'\n'+
@@ -115,7 +113,7 @@ function omdbThisMovie(movieName){
             console.log("Language: " + response.data.Language);
             console.log("Plot: " + response.data.Plot);
             console.log("Actors: " + response.data.Actors);
-            //print to file
+            //print to text file
             fs.appendFile('movie.txt',
                 "Title: " + response.data.Title+'\n'+
                 "Release Year: " + response.data.Year+'\n'+
