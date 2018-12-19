@@ -31,3 +31,11 @@ Language: English, Swahili, Xhosa, Zulu
 Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
 Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
 ==========================
+Title: Batman
+Release Year: 1989
+IMdB Rating: 7.5
+Country: USA, UK
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+==========================
